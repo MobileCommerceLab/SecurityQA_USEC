@@ -6,7 +6,7 @@ This corpus of questions and answers is made available under a Creative Commons 
 
 > Lea Duesterwald, Ian Yang, Norman Sadeh, "Can a Cybersecurity Question Answering Assistant Help Change User Behavior? An In Situ Study", The Symposium on Usable Security and Privacy (USEC 2025), Feb 2025.
 
-The above paper is also important for understanding the contents of the corpus, and the collection of questions and answers.
+The above paper is also important for understanding the contents of the corpus, and the collection of questions and answers. The full paper can be found at www.usableprivacy.org/static/files/duesterwald_2024.pdf
 
 ### Overview:
 
