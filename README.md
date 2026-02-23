@@ -1,12 +1,12 @@
 # SecurityQA_USEC - January 28, 2025
 
-## Usage Information:
+### Usage Information:
 
 This corpus of questions and answers is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Generic license (CC BY-NC-SA 4.0). Inquiries about commercial licensing should be directed to Prof. Norman Sadeh (sadeh@cs.cmu.edu). If you use the corpus (i.e., the questions, generated answers, or both) toward a publication, you must cite the following paper:
 
 > Lea Duesterwald, Ian Yang, Norman Sadeh, "Can a Cybersecurity Question Answering Assistant Help Change User Behavior? An In Situ Study", The Symposium on Usable Security and Privacy (USEC 2025), Feb 2025.
 
-The above paper is also important for understanding the contents of the corpus, and the collection of questions and answers. The full paper can be found at www.usableprivacy.org/static/files/duesterwald_2024.pdf
+The above paper is also important for understanding the contents of the corpus, and the collection of questions and answers. The full paper can be found at https://par.nsf.gov/servlets/purl/10598526  
 
 ## Overview:
 
